@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      NES_Soldier_Knock_Down_0: -5737056331469850282
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

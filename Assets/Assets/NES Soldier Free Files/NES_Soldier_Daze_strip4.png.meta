@@ -209,7 +209,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      NES_Soldier_Daze_strip4_0: -2731957548424867785
+      NES_Soldier_Daze_strip4_1: 4653833341321395713
+      NES_Soldier_Daze_strip4_2: 4969383664916407050
+      NES_Soldier_Daze_strip4_3: -3415470008104877104
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

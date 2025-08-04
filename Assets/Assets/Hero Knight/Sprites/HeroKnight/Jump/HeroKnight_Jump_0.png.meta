@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      HeroKnight_Jump_0_0: 6019762076457242914
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

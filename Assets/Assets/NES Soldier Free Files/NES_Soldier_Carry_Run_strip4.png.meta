@@ -209,7 +209,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      NES_Soldier_Carry_Run_strip4_0: -513840312963956235
+      NES_Soldier_Carry_Run_strip4_1: -9168854420998078488
+      NES_Soldier_Carry_Run_strip4_2: 3529437762964456078
+      NES_Soldier_Carry_Run_strip4_3: -5928864020501413453
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

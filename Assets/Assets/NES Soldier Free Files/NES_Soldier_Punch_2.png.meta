@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      NES_Soldier_Punch_2_0: 141624424159245348
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

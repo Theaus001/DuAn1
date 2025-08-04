@@ -159,7 +159,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      NES_Soldier_OverThrow_strip2_0: -4071034179950132986
+      NES_Soldier_OverThrow_strip2_1: 1135443646399514720
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

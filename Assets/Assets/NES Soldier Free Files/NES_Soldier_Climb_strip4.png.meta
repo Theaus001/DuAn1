@@ -209,7 +209,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      NES_Soldier_Climb_strip4_0: 7471101821583429986
+      NES_Soldier_Climb_strip4_1: 7162619999233674269
+      NES_Soldier_Climb_strip4_2: -4736501717362423367
+      NES_Soldier_Climb_strip4_3: -7882799277827664534
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

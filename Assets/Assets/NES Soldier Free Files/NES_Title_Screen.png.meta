@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      NES_Title_Screen_0: 7627614162134231782
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

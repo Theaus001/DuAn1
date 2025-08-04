@@ -209,7 +209,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      NES_Soldier_Strafe_1_strip4_0: -2626865262843574957
+      NES_Soldier_Strafe_1_strip4_1: -3438975045573605089
+      NES_Soldier_Strafe_1_strip4_2: -3773999802286989159
+      NES_Soldier_Strafe_1_strip4_3: -7433624994081425821
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

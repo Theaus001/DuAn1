@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      HeroKnight_Grab Ledge_3_0: 1558359415315355228
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

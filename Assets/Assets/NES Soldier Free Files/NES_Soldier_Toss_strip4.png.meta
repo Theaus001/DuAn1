@@ -209,7 +209,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      NES_Soldier_Toss_strip4_0: 3164661459875168888
+      NES_Soldier_Toss_strip4_1: 8269521963779922982
+      NES_Soldier_Toss_strip4_2: 4963575213495801134
+      NES_Soldier_Toss_strip4_3: -4045276299113040833
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
